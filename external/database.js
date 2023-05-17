@@ -5,7 +5,7 @@ const {
   DB_USERNAME,
   DB_PASSWORD,
   DB_DIALECT = 'postgres',
-  DB_PORT = 6595
+  DB_PORT = 7468
 } = process.env;
 
 module.exports = {
